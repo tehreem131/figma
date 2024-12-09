@@ -1,6 +1,6 @@
 import React from 'react'
-import { CategoryTop } from '../Components/categorytop'
-import CasualCard from '../Components/casualcard'
+import { CategoryTop } from '@/app/components/topsell/categorytop'
+import CasualCard from '@/app/components/topsell/casualcard'
 
 
 const CategoryPage = () => {
